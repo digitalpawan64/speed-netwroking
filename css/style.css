@@ -732,7 +732,7 @@ h1 {
 /*footer section*/
 
 .footer{
- /* background-image: url(../image/footer-bg.png)!important;*/
+  background-image: url(../image/footer-bg.png)!important;
   width: 100%;
   height: 315px;
   background-repeat: no-repeat;
@@ -744,8 +744,7 @@ h1 {
   display: flex;
   justify-content: space-around;
   align-items: flex-start;
-   background-image: url(../image/footer-bg.png)!important;
-
+  
 }
 
 .footer-title a{
@@ -826,7 +825,7 @@ h1 {
 @media only screen and (max-width: 768px){
 
   .footer{
- /* background-image: url(../image/footer-bg.png)!important;*/
+  background-image: url(../image/footer-bg.png)!important;
   width: 100%;
   height: 580px;
   background-repeat: no-repeat;
