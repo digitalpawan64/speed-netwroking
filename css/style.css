@@ -192,6 +192,7 @@ h1 {
 .nav-title a{
   color: #0c1a7d;
   font-family: MyriadRegular;
+  font-size: 32px!important;
 }
 
 .nav-title span{
