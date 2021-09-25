@@ -436,7 +436,7 @@ h1 {
 
 }
 
-@media (mix-width:769px) and (max-width:1764px) {
+@media (min-width:769px) and (max-width:1764px) {
 .Make-impact-content-box {
     padding-left: 930px;
     padding-top: 134px;
