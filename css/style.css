@@ -435,6 +435,24 @@ h1 {
 
 
 }
+
+@media (max-width:769px) and (min-width:764px) {
+.Make-impact-content-box {
+    padding-left: 930px;
+    padding-top: 134px;
+}
+.Make-impact-content-box{
+  h2 
+    font-family: 'Proxima Nova Rg';
+    font-size: 2.75rem;
+    line-height: 4.75rem;
+    color: #040521;
+
+}
+
+}
+
+
   
 
 /*End-Make-an-impact-section-start*/
