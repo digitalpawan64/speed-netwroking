@@ -529,14 +529,11 @@ h1 {
 .customer-logos{
   padding: 100px 100px 0 100px;
 }
-.customer-logos img:first-child{
+
+.customer-logos img {
   width: 100px;
   height: 80px;
 }
-/*.customer-logos img {
-  width: 100px;
-  height: 80px;
-}*/
 
 @media only screen and (max-width: 768px){
 
