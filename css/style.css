@@ -310,6 +310,20 @@ h1 {
   
 }
 
+.content-box h3 {
+    color: #fff;
+    /*line-height: 50px;*/
+    margin-top: 45px;
+    font-size: 20px;
+}
+
+.content-box p {
+    font-size: 24px;
+    color: #fff;
+    margin: 60px 0;
+    font-family: MyriadRegular;
+}
+/*
 .content-box h3{
   color: #fff;
   line-height: 120px;
@@ -321,9 +335,9 @@ h1 {
   font-size: 24px;
   color: #fff;
   margin-bottom: 50px;
-  font-family: MyriadRegular;
+  
 
-}
+}*/
 
 .content-box a{
    color: #fff;
@@ -342,15 +356,14 @@ h1 {
 
 .content-box h3 {
     color: #fff;
-    /*line-height: 50px;*/
-    margin-top: 45px;
+    line-height: 50px;
     font-size: 20px;
 }
 
 .content-box p {
     font-size: 16px;
     color: #fff;
-    margin: 60px 0;
+    margin-bottom: 30px;
 }
 
 .round-btn {
