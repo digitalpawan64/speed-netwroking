@@ -291,9 +291,11 @@ h1 {
     
   }
 
-  .nav  .nav-header  .nav-title{
-    font-size: 18px;
-  }
+  .nav-title a {
+    color: #0c1a7d;
+    font-family: MyriadRegular;
+    font-size: 24px!important;
+}
 
 
 }
