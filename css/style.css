@@ -744,6 +744,8 @@ h1 {
   display: flex;
   justify-content: space-around;
   align-items: flex-start;
+   background-image: url(../image/footer-bg.png)!important;
+
 }
 
 .footer-title a{
