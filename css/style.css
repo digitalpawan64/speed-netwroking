@@ -137,6 +137,8 @@ p{
   background: #4ccf5f;
   border-radius: 30px;
   padding: 20px 50px;
+  color: #fff;
+  font-family: 'MyriadRegular';
 
 }
 
@@ -393,7 +395,7 @@ h1 {
 
 
   .Make-impact-content-box{
-    padding-left: 770px;
+    padding-left: 750px;
     padding-top: 134px;
   }
 
