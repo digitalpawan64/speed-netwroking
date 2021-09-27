@@ -853,30 +853,21 @@ h1 {
    padding-bottom: 20px;
 }
 
-.newsform{
+.newsletter input{
   border: none;
   padding: 10px 30px;
   background: none;
   border-bottom: 1px white solid;
 }
 
-/*{
-  border: 0;
-    line-height: 2.5;
-    padding: 0 20px;
-    font-size: 1rem;
-    text-align: center;
-    color: #fff;
-    text-shadow: 1px 1px 1px #000;
-    border-radius: 10px;
-}*/
-
-.news-btn{
-  padding: 10px;
-  color: #fff;
+.newsletter button{
   background: #4ccf5f;
   border-radius: 5px;
   border: none;
+}
+.newsletter button i{
+  padding: 10px;
+  color: #fff;
 }
 
 .newsletter div{
