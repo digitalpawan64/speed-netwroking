@@ -1024,6 +1024,53 @@ ul.tabs li.active {
 
 .tab_drawer_heading { display: none; }
 
+
+.dots li{
+  background: red;
+}
+
+ul.dots {
+  margin-top: 120px;
+  /*padding-bottom: 50px;*/
+  /*float: left;*/
+  display: flex;
+  justify-content: center;
+  list-style: none;
+/*  height: 32px;*/
+  /*border-bottom: 1px solid #333;*/
+  width: 100%;
+}
+
+ul.dots li {
+  float: left;
+  margin: 0;
+  cursor: pointer;
+  padding: 10px 30px;
+  /*height: 31px;*/
+  line-height: 31px;
+  border-radius: 30px;
+  color: #000;
+  overflow: hidden;
+  position: relative;
+  font-size: 22px;
+  font-family: 'Proxima Nova Rg';
+}
+
+
+
+ul.dots li:hover {
+  
+  color: #333;
+}
+
+ul.dots li.active {
+  background-color: #fff;
+  color: #4ccf5f;
+  border: 1px solid #4ccf5f;
+  display: block;
+}
+
+
 @media screen and (max-width: 480px) {
   .tabs {
     display: none;
