@@ -215,13 +215,18 @@ h1 {
   font-size: 18px;
   font-weight: 600;
   color: #040521;
+  transition: 0.4s;
   font-family: 'Proxima Nova Rg';
 
 }
 
-.nav  .nav-links  a:hover {
-  background-color: rgba(0, 0, 0, 0.3);
+.nav  .nav-links:hover {
+  background-color: #0c1a7d;
+  color: #EEA200;
+  padding: 24px 10px;
 }
+
+
 
 .nav > #nav-check {
   display: none;
