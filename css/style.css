@@ -860,14 +860,23 @@ h1 {
   border-bottom: 1px white solid;
 }
 
-.newsletter button{
-  background: #4ccf5f;
-  border-radius: 5px;
-  border: none;
+.news-btn{
+  border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
 }
+
 .newsletter button i{
   padding: 10px;
   color: #fff;
+  background: #4ccf5f;
+  border-radius: 5px;
+  border: none;
 }
 
 .newsletter div{
