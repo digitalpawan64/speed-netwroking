@@ -840,6 +840,11 @@ h1 {
 
 }
 
+.social-icon a:hover{
+  color: #4ccf5f;
+
+}
+
 .newsletter span{
   color: #4ccf5f;
   margin: 0 5px;
@@ -860,7 +865,7 @@ h1 {
   border-bottom: 1px white solid;
 }
 
-.newsletter button{
+/*.newsletter button{
   background: #4ccf5f;
   border-radius: 5px;
   border: none;
@@ -869,7 +874,7 @@ h1 {
   padding: 10px;
   color: #fff;
 }
-
+*/
 .newsletter div{
   margin: 15px 0;
 }
