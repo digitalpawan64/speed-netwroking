@@ -405,16 +405,17 @@ h1 {
 @media only screen and (max-width: 768px){
   .hero{
     height: auto;
+    padding-top: 50px;
   }
 
-  .content-box {
+/*  .content-box {
     padding-top: 50px;
     margin: 0 20px;
 }
-
+*/
 .content-box h3 {
     color: #fff;
-    line-height: 30px;
+    line-height: 40px;
     font-size: 20px;
 }
 
