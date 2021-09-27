@@ -840,9 +840,8 @@ h1 {
 
 }
 
-.social-icon a:hover{
+.social-icon a i:hover{
   color: #4ccf5f;
-
 }
 
 .newsletter span{
