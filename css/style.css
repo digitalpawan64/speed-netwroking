@@ -151,6 +151,26 @@ p{
 
 }
 
+.round-button:hover {
+  background: #fff;
+  color: #4ccf5f;
+  border: 1px #4ccf5f solid;
+}
+
+.round-button:hover a{
+  color: #4ccf5f;
+}
+
+.connection-btn:hover{
+  background: transparent;
+  border: 1px #fff solid;
+
+}
+
+.connection-btn:hover a{
+  color: #fff;
+
+}
 
 @media only screen and (max-width: 768px){
 
