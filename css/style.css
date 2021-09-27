@@ -831,7 +831,13 @@ h1 {
   color: white;
   padding: 10px 0;
   font-size: 18px;
+  transition: 0.4s;
   font-family: Proxima Nova Rg;
+}
+
+.footer-menu ul li a:hover{
+  color: #4ccf5f;
+
 }
 
 .newsletter span{
