@@ -816,6 +816,7 @@ h1 {
 .social-icon a{
   margin: 0 10px;
   color: #fff;
+  transition: 0.4s;
 }
 
 .footer-menu ul li{
