@@ -118,6 +118,7 @@ p{
   border-radius: 30px;
   padding: 20px 50px;
    font-family: 'MyriadRegular';
+   transition: 0.4s;
 }
 .round-btn:hover {
   background: #fff;
@@ -134,6 +135,7 @@ p{
   padding: 15px 40px;
   color: #fff!important;
    font-family: 'MyriadRegular';
+   transition: 0.4s;
 }
 
 .container{
@@ -148,6 +150,7 @@ p{
   padding: 20px 50px;
   color: #fff;
   font-family: 'MyriadRegular';
+  transition: 0.4s;
 
 }
 
@@ -416,6 +419,7 @@ h1 {
     background: #4ccf5f;
     border-radius: 30px;
     padding: 10px 30px;
+    transition: 0.4s;
 }
 
 }
