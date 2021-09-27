@@ -119,7 +119,7 @@ p{
   padding: 20px 50px;
    font-family: 'MyriadRegular';
 }
-.round-btn:hover a{
+.round-btn a:hover{
   background: #fff;
   color: #4ccf5f;
   border: 1px #4ccf5f solid;
