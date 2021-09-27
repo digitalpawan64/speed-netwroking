@@ -123,10 +123,12 @@ p{
   background: #fff;
   color: #4ccf5f;
   border: 1px #4ccf5f solid;
-  
- 
-
 }
+
+.round-btn:hover a{
+  color: #4ccf5f;
+}
+
 .square-btn{
   background: #4ccf5f;
   padding: 15px 40px;
