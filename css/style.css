@@ -1030,6 +1030,10 @@ ul.tabs li.active {
 }
 
 @media screen and (max-width: 480px) {
+
+  ul.tabs {
+  margin: 0px;
+}
   .tabs {
     display: none;
   }
