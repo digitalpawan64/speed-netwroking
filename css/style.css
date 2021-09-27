@@ -165,20 +165,18 @@ p{
 }
 
 .connection-btn{
-  background: #4ccf5f;
+  background: #fff;
   border-radius: 30px;
   padding: 20px 50px;
    font-family: 'MyriadRegular';
    transition: 0.4s;
 }
 
-
 .connection-btn:hover{
   background: transparent;
   border: 1px #fff solid;
 
 }
-
 
 .connection-btn:hover a{
   color: #fff;
