@@ -220,7 +220,7 @@ h1 {
 
 }
 
-.nav  .nav-links:hover {
+.nav  .nav-links:hover a{
   background-color: #0c1a7d;
   color: #EEA200;
   padding: 24px 10px;
