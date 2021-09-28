@@ -1255,6 +1255,9 @@ ul.tl li .timestamp{
 
 .bar {
   list-style: none;
+  position: absolute;
+  margin-top: 300px;
+  margin-left: -50px;
 }
 .bar >li {
   position: relative;
@@ -1262,14 +1265,14 @@ ul.tl li .timestamp{
 .bar>li:before {
   content: '\25CF';
   margin-right: 10px;
-  font-size: 20px;
+  font-size: 80px;
 }
 .bar>li:after {
   position: absolute;
   left: 0;
   top: 0;
   content: '';
-  border-left: 2px solid d9dcff;
+  border-left: 2px solid #d9dcff;
   margin-left: 5px;
   height: 100%;
 }
