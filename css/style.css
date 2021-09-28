@@ -489,7 +489,8 @@ h2{
 @media only screen and (max-width: 768px){
 
   .Make-impact-mobile{
-    display: bloack;
+    display: flex;
+    flex-direction: column;
   }
      
      .Make-impact {
