@@ -926,7 +926,7 @@ h2{
     font-size: 1rem;
     text-align: center;
     color: #fff;
-    text-shadow: 1px 1px 1px #000;
+   /* text-shadow: 1px 1px 1px #000;*/
     border-radius: 10px;
     background-color: #4ccf5f;
     }
@@ -981,7 +981,7 @@ h2{
     font-size: 1rem;
     text-align: center;
     color: #fff;
-    text-shadow: 1px 1px 1px #000;
+   /* text-shadow: 1px 1px 1px #000;*/
     border-radius: 10px;
     background-color: #4ccf5f;
     }
