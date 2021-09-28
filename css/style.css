@@ -791,8 +791,8 @@ h2{
 .footer{
   background-image: url(../image/footer-bg.png)!important;
   width: 100%;
-  height:auto;
-  background-size:auto;
+  height:auto!important;
+  background-size:auto!important;
   background-repeat: no-repeat;
   padding-top: 60px;
 }
@@ -918,8 +918,8 @@ h2{
   .footer{
   /*background-image: url(../image/footer-bg.png)!important;*/
   width: 100%;
-   height:auto;
-  background-size:auto;
+   height:auto!important;
+  background-size:auto!important;
   background-repeat: no-repeat;
   padding-top: 60px;
 }
