@@ -1308,11 +1308,12 @@ ul.tl li .timestamp{
       background-color: #d9dcff; 
       z-index: 2;
       color: white;
+      box-shadow: 5px 5px 5px d9dcff;
     }
 .dots .circle:first-child {
   margin-top: 0;
   background: #4ccf5f;
-  box-shadow: 3px 3px 3px d9dcff;
+  box-shadow: 5px 5px 5px d9dcff;
 }
 .dots .circle:before {
   position: absolute;
