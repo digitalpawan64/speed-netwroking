@@ -1262,21 +1262,13 @@ ul.tl li .timestamp{
 .bar >li {
   position: relative;
 }
-/*.bar>li:before {
-  content: '\25CF';
+.bar>li:before {
+  content: '';
   margin-right: 10px;
   font-size: 80px;
-}*/
-
-.bar>li{
-  width: 30px;
-  height: 30px;
-  border-radius: 50%;
-  background-color: red;
   padding: 10px;
+  background-color: green;
 }
-
-
 .bar>li:after {
   position: absolute;
   left: 0;
