@@ -1263,7 +1263,7 @@ ul.tl li .timestamp{
   position: relative;
 }
 .bar>li:before {
-  content: '\25CF';
+  content: '1';
   margin-right: 10px;
   font-size: 80px;
 }
@@ -1286,5 +1286,5 @@ ul.tl li .timestamp{
 .bar >li:last-of-type:after {
   top: -50%;
   left: 28%;
-  z-index: -1;
+    z-index: -1;
 }
