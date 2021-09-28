@@ -1280,7 +1280,7 @@ ul.tl li .timestamp{
 }
 .dots .circle:before {
   position: absolute;
-   border: 1px solid #999;
+   border: 1px solid #d9dcff;
     width: 0;
      height: 50px; 
      display: block;
