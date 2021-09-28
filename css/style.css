@@ -1299,17 +1299,20 @@ ul.tl li .timestamp{
 
 .dots .circle {
   position: relative;
- border: 2px solid #999;
+ border: 2px solid d9dcff;
   border-radius: 100%;
    width: 50px;
     line-height: 50px;
      text-align: center; 
      margin-top: 50px;
-      background-color: #fff; 
+      background-color: #d9dcff; 
       z-index: 2;
+      color: white;
     }
 .dots .circle:first-child {
   margin-top: 0;
+  background: #4ccf5f;
+  box-shadow: 3px 3px 3px d9dcff;
 }
 .dots .circle:before {
   position: absolute;
