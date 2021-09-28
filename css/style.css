@@ -480,16 +480,26 @@ h2{
       color: #fff;
      }
 
+     .Make-impact-mobile{
+      display: done;
+
+     }
+
 
 @media only screen and (max-width: 768px){
+
+  .Make-impact-mobile{
+    display: bloack;
+  }
      
      .Make-impact {
-    background-size: cover;
+      display: none;
+    /*background-size: cover;
     width: 100%;
     height: auto;
     background-image: url(../image/bg2.png);
     background-size: cover;
-     background: right;  
+     background: right;  */
 }
 .Make-impact-content-box {
       
