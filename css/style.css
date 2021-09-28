@@ -1271,12 +1271,12 @@ ul.tl li .timestamp{
       background-color: #d9dcff; 
       z-index: 2;
       color: white;
-      box-shadow: 5px 5px 5px d9dcff;
+      box-shadow: 0px 0px 10px 7px #d9dcff;
     }
 .dots .circle:first-child {
   margin-top: 0;
   background: #4ccf5f;
-  box-shadow: 5px 5px 5px d9dcff;
+  box-shadow: 0px 0px 10px 7px #d9dcff;
 }
 .dots .circle:before {
   position: absolute;
