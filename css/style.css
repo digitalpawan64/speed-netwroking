@@ -950,7 +950,7 @@ h2{
   /*background-image: url(../image/footer-bg.png)!important;*/
   width: 100%;
    height:auto!important;
-  background-size:auto!important;
+  background-size:100% 200vh!important;
   background-repeat: no-repeat;
   padding: 30px 0;
 }
