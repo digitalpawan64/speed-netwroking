@@ -491,6 +491,7 @@ h2{
   .mobile-impact{
     display: flex;
     flex-direction: column;
+    background-color: #F1F2FF;
   }
 
   .make-impact-img img{
@@ -504,7 +505,7 @@ h2{
 }
 
 .Make-impact-content-box-mobile {
-    background-color: #F1F2FF;
+    
     padding: 30px 0;
     margin: 0 20px;
 
