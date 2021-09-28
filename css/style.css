@@ -941,7 +941,7 @@ h2{
    height:auto!important;
   background-size:auto!important;
   background-repeat: no-repeat;
-  padding-top: 60px;
+  padding: 60px 0;
 }
 
 .footer-title{
