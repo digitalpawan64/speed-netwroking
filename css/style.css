@@ -794,7 +794,6 @@ h2{
   height:auto;
   background-size:auto;
   background-repeat: no-repeat;
-  
   padding-top: 60px;
 }
 
@@ -919,9 +918,9 @@ h2{
   .footer{
   /*background-image: url(../image/footer-bg.png)!important;*/
   width: 100%;
-  height: auto;
+   height:auto;
+  background-size:auto;
   background-repeat: no-repeat;
-  background-size: cover;
   padding-top: 60px;
 }
 
