@@ -1269,7 +1269,7 @@ ul.tl li .timestamp{
   left: 0;
   top: 0;
   content: '';
-  border-left: 2px solid black;
+  border-left: 2px solid d9dcff;
   margin-left: 5px;
   height: 100%;
 }
