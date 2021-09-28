@@ -1016,8 +1016,10 @@ h2{
 /*Event Start*/
 
 .event-section{
+  background: url(../image/SpeedNetworking_Homepage_V4.png);
   width: 100%;
 /*  height: 1070px;*/
+
 height: 970px;
 }
 
