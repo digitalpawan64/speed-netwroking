@@ -500,17 +500,14 @@ h2{
      
      .Make-impact {
       display: none;
-    /*background-size: cover;
-    width: 100%;
-    height: auto;
-    background-image: url(../image/bg2.png);
-    background-size: cover;
-     background: right;  */
+   
 }
-.Make-impact-content-box {
-      
+
+.Make-impact-content-box-mobile {
+    background-color: #F1F2FF;
     padding: 30px 0;
     margin: 0 20px;
+
 }
 
 .Make-impact-content-box h2 {
