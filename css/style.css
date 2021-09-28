@@ -1143,6 +1143,10 @@ ul.tabs li{
   padding: 10px!important;
 }
 
+.para p {
+    font-family: MyriadRegular;
+    margin: 20px 0;
+}
 
 } 
 
