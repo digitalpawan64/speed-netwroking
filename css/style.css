@@ -1027,7 +1027,7 @@ height: 970px;
 }
 
 ul.tabs {
-  margin-top: 120px;
+  padding-top: 120px;
   /*padding-bottom: 50px;*/
   /*float: left;*/
   display: flex;
@@ -1095,9 +1095,7 @@ ul.tabs li.active {
 .tab_drawer_heading { display: none; }
 
 
-.dots li{
-  background: red;
-}
+
 
 @media screen and (max-width: 480px) {
 .event-head {
@@ -1274,7 +1272,7 @@ ul.tl li .timestamp{
 }
 
 
-/*dots css start*/
+/*dots css start*//*
 .dots {
     position: absolute;
     top: 2120px;
@@ -1321,4 +1319,4 @@ ul.tl li .timestamp{
   .dots{
     display: none;
   }
-}
+}*/
