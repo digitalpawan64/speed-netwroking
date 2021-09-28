@@ -1262,11 +1262,20 @@ ul.tl li .timestamp{
 .bar >li {
   position: relative;
 }
-.bar>li:before {
-  content: '1';
+/*.bar>li:before {
+  content: '\25CF';
   margin-right: 10px;
   font-size: 80px;
+}*/
+
+.bar>li{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: red;
 }
+
+
 .bar>li:after {
   position: absolute;
   left: 0;
