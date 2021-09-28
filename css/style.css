@@ -1291,10 +1291,12 @@ ul.tl li .timestamp{
     z-index: -1;
 }
 */
-/*.dots{
-  position: absolute;
-  top: 1500px;
-}*/
+.dots {
+    position: absolute;
+    top: 2190px;
+    left: 206px;
+}
+
 .dots .circle {
   position: relative;
  border: 2px solid #999;
