@@ -492,6 +492,11 @@ h2{
     display: flex;
     flex-direction: column;
   }
+
+  .make-impact-img img{
+        width: 350px;
+    height: auto;
+  }
      
      .Make-impact {
       display: none;
