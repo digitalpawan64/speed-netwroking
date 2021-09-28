@@ -606,7 +606,7 @@ h2{
   background-image: url(../image/bg3.png);
     background-size: cover;
     background-repeat: no-repeat;
-    padding: 40px 20px!important;
+    padding: 30px 20px!important;
 }
 
 .make-connection-content-box {
@@ -1095,7 +1095,10 @@ ul.tabs li.active {
 }
 
 @media screen and (max-width: 480px) {
-
+.event-head {
+   
+    margin: 20px 0;  
+}
   ul.tabs {
   margin: 0px;
 }
