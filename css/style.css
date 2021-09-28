@@ -1064,6 +1064,10 @@ ul.tabs li.active {
   ul.tabs {
   margin: 0px;
 }
+
+ul.tabs li{
+  font-size: 18px;
+}
   .tabs {
     display: none;
   }
