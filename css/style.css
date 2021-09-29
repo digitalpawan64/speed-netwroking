@@ -929,6 +929,7 @@ h2{
 }
 
 .input-form{
+  width: 300px;
   border: none;
   padding: 10px 30px;
   background: none;
