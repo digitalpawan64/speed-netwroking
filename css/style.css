@@ -1083,7 +1083,7 @@ ul.tabs li:hover {
 ul.tabs li.active {
   background-color: #fff;
   color: #4ccf5f;
-  border: 1px solid #4ccf5f;
+  border: 3px solid #4ccf5f;
   display: block;
 }
 
