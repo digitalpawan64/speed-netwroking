@@ -666,6 +666,9 @@ h2{
   width: 100%;
   height: auto;
  padding: 60px 0 60px 0;
+ background-image: url(../image/b51.png);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .client-head{
