@@ -161,6 +161,7 @@ p{
   color: #fff;
   font-family: 'MyriadRegular';
   transition: 0.4s;
+  font-weight: 600;
 
 }
 
@@ -182,6 +183,7 @@ p{
   padding: 20px 50px;
    font-family: 'MyriadRegular';
    transition: 0.4s;
+   font-weight: 600;
 }
 
 .connection-btn a{
