@@ -489,7 +489,7 @@ h2{
   .Make-impact-content-box h3{
     font-size: 22px;
     line-height: 32px;
-    padding: 10px 0;
+  /*  padding: 10px 0;*/
     color: #040521;
     text-transform: uppercase;
     font-weight: 600;
