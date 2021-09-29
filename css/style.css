@@ -168,6 +168,7 @@ p{
   background: #fff;
   color: #4ccf5f;
   border: 1px #4ccf5f solid;
+  transition: 0.4s;
 }
 
 .round-button:hover a{
@@ -263,6 +264,7 @@ h2{
   color: #0c1a7d;
   font-family: MyriadRegular;
   font-size: 32px!important;
+  transition: 0.4s;
 }
 
 .nav-title span{
@@ -289,8 +291,9 @@ h2{
 }
 
 .nav  .nav-links a:hover {
-  background-color: #0c1a7d;
-  color: #fff;
+  
+  color: #4ccf5f;
+  transition: all 0.3s ease-in;
   padding: 24px 10px;
 }
 
