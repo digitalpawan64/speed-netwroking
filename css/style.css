@@ -132,7 +132,17 @@ p{
 
 .square-btn{
   background: #4ccf5f;
-  padding: 15px 40px;
+  padding:36px 31px!important;
+  color: #fff!important;
+   font-family: 'MyriadRegular';
+   transition: 0.4s;
+}
+
+
+
+.square-btn-grey{
+  background: #f4f5ff;
+  padding:36px 31px!important;
   color: #fff!important;
    font-family: 'MyriadRegular';
    transition: 0.4s;
@@ -234,10 +244,7 @@ h2{
   align-items: center;
 }
 
-.square-btn{
-  padding: 31px!important;
-   font-family: 'MyriadRegular';
-}
+
 
 .nav  .nav-header  .nav-title {
   display: inline-block;
