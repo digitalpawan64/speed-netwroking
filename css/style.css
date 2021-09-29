@@ -273,8 +273,10 @@ h2{
 }
 
 .nav  .nav-links {
-  display: inline;
-  float: right;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* float: right; */
   font-size: 18px;
 }
 
