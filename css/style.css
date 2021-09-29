@@ -198,7 +198,7 @@ p{
 }
 
 .connection-btn:hover a{
-  color: #fff;
+  color: #fff!important;
 
 }
 
