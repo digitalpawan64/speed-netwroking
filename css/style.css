@@ -492,7 +492,8 @@ h2{
     padding: 10px 0;
     color: #040521;
     text-transform: uppercase;
-    font-family: Myriad Pro;
+    font-weight: 600;
+    /*font-family: Myriad Pro;*/
   }
 
   .Make-impact-content-box p{
