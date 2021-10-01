@@ -1166,14 +1166,13 @@ ul.tabs li.active {
     padding: 60px 0;
   }
 
-  
+
 .event-head {
    
     margin: 20px 0;  
 }
   ul.tabs {
-  margin: 0px;
-  padding: 13px 15px;
+    padding: 13px 15px;
 }
 
 ul.tabs li{
