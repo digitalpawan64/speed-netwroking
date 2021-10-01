@@ -147,7 +147,7 @@ p{
 
 .square-btn{
   background: #4ccf5f;
-  padding:36px 15px!important;
+  padding:36px 25px!important;
   color: #fff!important;
    font-family: 'MyriadRegular';
    transition: 0.4s;
@@ -164,7 +164,7 @@ p{
 
 .square-btn-grey{
   background: #f4f5ff;
-  padding:36px 15px!important;
+  padding:36px 25px!important;
   color: #040521!important;
    font-family: 'MyriadRegular';
    transition: 0.4s;
