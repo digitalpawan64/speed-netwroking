@@ -911,7 +911,9 @@ h2{
   color: #4ccf5f;
 
 }
-
+.footer-menu .active{
+  color: #4ccf5f;
+}
 .social-icon a i:hover{
   color: #4ccf5f;
 }
