@@ -513,7 +513,7 @@ h2{
   }
 
   .Make-impact-content{
-    display: flex;
+    display: -line-flex;
     justify-content: center;
     align-items: center;
   }
