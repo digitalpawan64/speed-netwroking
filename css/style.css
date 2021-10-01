@@ -1301,7 +1301,9 @@ ul li{
   flex-direction: column;
  }
 
-
+.footer-img img{
+  width: 290px;
+}
 
 }
 
