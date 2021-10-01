@@ -151,6 +151,7 @@ p{
   color: #fff!important;
    font-family: 'MyriadRegular';
    transition: 0.4s;
+   opacity: .9;
 }
 
 .square-btn a:hover {
@@ -166,6 +167,7 @@ p{
   color: #040521!important;
    font-family: 'MyriadRegular';
    transition: 0.4s;
+   opacity: .9;
 }
 
 .square-btn-grey:hover a{
@@ -316,6 +318,7 @@ h2{
   color: #040521;
   transition: 0.4s;
   font-family: 'Proxima Nova Rg';
+  opacity: .9;
 
 }
 
@@ -386,6 +389,7 @@ h2{
   .nav  .nav-links  a {
     display: block;
     width: 100%;
+    opacity: .9;
 
   }
   .nav  #nav-check:not(:checked) ~ .nav-links {
