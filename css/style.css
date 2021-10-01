@@ -1429,3 +1429,55 @@ ul.tl li .timestamp{
     display: none;
   }
 }*/
+
+
+
+.footer-2{
+  background-image: url(../image/footer-bg.png)!important;
+}
+
+.footer-container {
+    display: flex;
+    padding-top: 97px;
+    padding-bottom: 89px;
+}
+
+.footer-list {
+    display: flex;
+    margin-left: 106px;
+    margin-right: 114px;
+    margin-top: -10px;
+}
+
+.footer-list-content2 {
+    margin-left: 98px;
+}
+
+.footer-form {
+    max-width: 394px;
+    width: 100%;
+    margin-top: -3px;
+}
+
+form#footer-form-content {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+#footer-input {
+    background-color: transparent;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid white;
+    padding: 15px 0px;
+    width: 85%;
+}
+
+.footer-form input {
+    font-size: 16px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Source Sans Pro";
+}
