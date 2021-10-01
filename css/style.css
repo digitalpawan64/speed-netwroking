@@ -588,7 +588,7 @@ h2{
   }
 
   .make-impact-img img{
-        width: 359px;
+        width: -webkit-fill-available;;
     height: auto;
   }
      
