@@ -1059,6 +1059,7 @@ input::-webkit-input-placeholder {
 }
 
 .input-form{
+  width: 260px;
   border: none;
   padding: 10px 30px;
   background: none;
