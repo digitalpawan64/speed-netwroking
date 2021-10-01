@@ -551,7 +551,7 @@ h2{
     margin: 25px 0;
     font-family: MyriadRegular;
     color: #040521;
-    
+
   }
 
    .Make-impact-content-box span {
@@ -936,7 +936,8 @@ h2{
 
 .social-icon a{
   margin: 0 10px;
-  color: #fff;
+  color: #4ccf5f;
+  font-size: 20px;
   transition: 0.4s;
 }
 
@@ -966,7 +967,7 @@ h2{
   color: #4ccf5f;
 }
 .social-icon a i:hover{
-  color: #4ccf5f;
+  color: #fff;
 }
 
 .newsletter span{
