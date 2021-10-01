@@ -934,9 +934,9 @@ h2{
   margin: 0 5px;
 }
 
-.social-icon a i{
+.social-icon a{
   margin: 0 10px;
-  color: #4ccf5f;
+  color: #4ccf5f!important;
   font-size: 20px;
   transition: 0.4s;
 }
