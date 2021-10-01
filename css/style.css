@@ -1171,12 +1171,10 @@ ul.tabs li.active {
    
     margin: 20px 0;  
 }
-  ul.tabs {
-    padding: 13px 15px;
-}
-
+ 
 ul.tabs li{
   font-size: 18px;
+  padding: 13px 15px;
 }
   .tabs {
     display: none;
