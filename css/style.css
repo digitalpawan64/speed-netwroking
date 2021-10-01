@@ -908,9 +908,7 @@ h2{
   background-image: url(../image/footer-bg.png)!important;
   background-position: center;
   background-repeat: no-repeat;
-  /*background-size: cover;*/
-  background-size:100% 100vh!important;
-  
+ 
 }
 
 .footer-content{
