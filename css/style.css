@@ -1029,12 +1029,19 @@ input::-webkit-input-placeholder {
   margin-top: 20px;
   color: #fff;
 }
+
+.input-form, input::-webkit-input-placeholder {
+    font-size: 16px;
+    text-align: center!important;
+    }
+
 .styled {
     border: 0;
     padding: 13px;
     font-size: 1rem;
     text-align: center;
     color: #fff;
+    margin-top: 15px;
    /* text-shadow: 1px 1px 1px #000;*/
     border-radius: 10px;
     background-color: #4ccf5f;
