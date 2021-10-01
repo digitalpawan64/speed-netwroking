@@ -943,6 +943,13 @@ h2{
   border-bottom: 1px #fff solid;
 }
 
+.input-form,
+input::-webkit-input-placeholder {
+    font-size: 16px;
+    line-height: 3;
+    text-align: left;
+}
+
 /*.newsletter button{
   background: #4ccf5f;
   border-radius: 5px;
