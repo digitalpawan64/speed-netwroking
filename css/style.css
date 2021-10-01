@@ -924,16 +924,15 @@ h2{
 
 .newsletter span{
   color: #4ccf5f;
-  
+  font-size: 18px;
+  padding-bottom: 20px;
 }
 
 .newsletter{
   color: white;
 }
 
-.newsletter span{
-   padding-bottom: 20px;
-}
+
 
 .input-form{
   width: 300px;
