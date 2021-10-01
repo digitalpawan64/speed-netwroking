@@ -521,6 +521,7 @@ h2{
 
   .make-impact-image{
     margin-left: -125px;
+    margin-top: 45px;
   }
 
 
@@ -528,7 +529,7 @@ h2{
     /*margin-left: -70px!important;*/
     position: absolute;
     padding-left: 1380px;
-    margin-top: -40px;
+    /*margin-top: -40px;*/
     
   }
 .Make-impact-content-box h2{
