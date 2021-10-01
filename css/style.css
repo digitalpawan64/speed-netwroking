@@ -1167,6 +1167,7 @@ ul.tabs li.active {
 }
   ul.tabs {
   margin: 0px;
+  padding: 13px 15px;
 }
 
 ul.tabs li{
