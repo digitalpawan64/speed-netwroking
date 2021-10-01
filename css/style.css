@@ -512,11 +512,17 @@ h2{
     background-size: cover;
   }
 
+  .Make-impact-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
-  .Make-impact-content-box{
+
+  /*.Make-impact-content-box{
     padding-left: 750px;
     padding-top: 140px;
-  }
+  }*/
 
   .Make-impact-content-box h3{
     font-size: 22px;
