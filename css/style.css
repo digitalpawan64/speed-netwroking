@@ -1161,6 +1161,12 @@ ul.tabs li.active {
 
 
 @media screen and (max-width: 480px) {
+
+  .event-section{
+    padding: 60px 0;
+  }
+
+  
 .event-head {
    
     margin: 20px 0;  
