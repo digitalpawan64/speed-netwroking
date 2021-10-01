@@ -153,7 +153,7 @@ p{
    transition: 0.4s;
 }
 
-.square-btn:hover a{
+.square-btn a:hover {
   
   color: #040521!important;
 }
