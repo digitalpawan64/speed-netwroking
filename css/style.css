@@ -171,7 +171,7 @@ p{
    opacity: .9;
 }
 
-.square-btn-grey:hover a{
+.square-btn-grey a:hover {
   
   color: #4ccf5f!important;
 }
@@ -385,7 +385,7 @@ h2{
     overflow-y: hidden;
     top: 45px;
     left: 0px;
-    
+    Sq
   }
   .nav  .nav-links  a {
     display: block;
