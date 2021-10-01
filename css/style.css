@@ -16,6 +16,17 @@
 }
 
 @font-face {
+    font-family: 'Proxima Nova Rg';
+    src: url('ProximaNova-Bold.woff2') format('woff2'),
+        url('ProximaNova-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
     font-family: 'MyriadRegular';
     src: url('../fonts/MyriadRegular.woff2') format('woff2'),
         url('../fonts/MyriadRegular.woff') format('woff');
