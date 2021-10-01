@@ -85,8 +85,10 @@ h1{
 h2{
   font-family: 'Proxima Nova Rg';
   font-weight: bold;
-  font-size: 3.75rem;
-  line-height: 4.75rem;
+  font-size: 3.7rem;
+  /*font-size: 3.75rem;*/
+  /*line-height: 4.75rem;*/
+  line-height: 4.4rem;
   color: #040521;
 }
 
