@@ -952,6 +952,7 @@ h2{
   font-size: 18px;
   transition: 0.4s;
   font-family: Proxima Nova Rg;
+  opacity: 0.7;
 }
 
 .footer-menu ul li a:hover{
@@ -988,6 +989,7 @@ h2{
 .input-form,
 input::-webkit-input-placeholder {
     font-size: 16px;
+    color: #fff;
    
     text-align: left;
 }
