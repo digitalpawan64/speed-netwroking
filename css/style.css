@@ -948,8 +948,8 @@ h2{
 }
 .footer-menu{
     display: flex;
-    margin-left: 106px;
-    margin-right: 114px;
+    /*margin-left: 106px;
+    margin-right: 114px;*/
     margin-top: -10px;
 }
 
