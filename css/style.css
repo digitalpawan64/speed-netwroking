@@ -1500,3 +1500,7 @@ form#footer-form-content {
     color: white;
     line-height: 36px;
 }
+
+ul li{
+  list-style: none;
+}
