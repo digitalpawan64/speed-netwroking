@@ -528,7 +528,9 @@ h2{
     margin-left: -70px!important;
     
   }
-
+.Make-impact-content-box h2{
+  width: 675px;
+}
   .Make-impact-content-box h3{
     font-size: 22px;
     line-height: 32px;
