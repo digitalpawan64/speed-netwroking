@@ -1305,6 +1305,14 @@ ul li{
   width: 290px;
 }
 
+.footer-list-content2,.footer-list-content1{
+  margin: 0;
+}
+
+.footer-list{
+  display: block;
+}
+
 }
 
 
