@@ -152,6 +152,7 @@ p{
    font-family: 'MyriadRegular';
    transition: 0.4s;
    opacity: .9;
+
 }
 
 .square-btn a:hover {
@@ -314,7 +315,7 @@ h2{
   padding: 13px 21px 13px 21px;
   text-decoration: none;
   font-size: 18px;
-  font-weight: 600;
+  font-weight: bold;
   color: #040521;
   transition: 0.4s;
   font-family: 'Proxima Nova Rg';
