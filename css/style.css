@@ -310,7 +310,7 @@ h2{
 @media (max-width:600px) {
 
   .nav .nav-header .nav-title{
-    padding: 0!important;
+    padding: 10px 10px 10px 10px!important;
   }
 
   .nav {
