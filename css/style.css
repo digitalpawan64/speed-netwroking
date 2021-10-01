@@ -153,9 +153,9 @@ p{
    transition: 0.4s;
 }
 
-.square-btn:hover {
+.square-btn:hover a{
   
-  color: #040521;
+  color: #040521!important;
 }
 
 
@@ -168,9 +168,9 @@ p{
    transition: 0.4s;
 }
 
-.square-btn-grey:hover{
+.square-btn-grey:hover a{
   
-  color: #4ccf5f;
+  color: #4ccf5f!important;
 }
 
 .container{
