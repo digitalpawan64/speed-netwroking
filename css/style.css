@@ -932,6 +932,7 @@ h2{
 .footer-title span{
   color: #4ccf5f;
   margin: 0 5px;
+  opacity: .7;
 }
 
 .social-icon a{
