@@ -906,17 +906,17 @@ h2{
 
 .footer{
   background-image: url(../image/footer-bg.png)!important;
-  width: 100%;
-  height:auto!important;
-  background-size:auto!important;
+  background-position: center;
   background-repeat: no-repeat;
-  padding: 86px 0;
+  background-size: cover;
+  
 }
 
 .footer-content{
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
+  padding: 86px 0;
   
 }
 
