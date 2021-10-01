@@ -1279,9 +1279,9 @@ ul.tabs li{
 }*/
 
 .event-box{
-  display: block;
+  /*display: block;
   width: 450px!important;
-  height: 315px;
+*/  height: 315px;
   background-color: #f1f2ff;
   box-sizing: content-box;
   padding: 30px;
