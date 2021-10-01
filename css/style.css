@@ -902,152 +902,6 @@ h2{
 /*End SLider section*/
 
 
-/*footer section*/
-
-.footer{
-  background-image: url(../image/footer-bg.png)!important;
-  background-position: center;
-  background-repeat: no-repeat;
- 
-}
-
-.footer-content{
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  padding-top: 97px;
-  padding-bottom: 89px;
-  
-}
-
-
-.footer-title a{
-  color: #fff!important;
-  font-size: 32px;
-  font-weight: 700;
-  
-}
-
-.title{
-  margin-bottom: 20px;
-}
-
-.title span{
- color: #fff;
-}
-.footer-title span{
-  color: #4ccf5f;
-  margin: 0 5px;
-  opacity: .7;
-}
-
-.social-icon a{
-  margin: 0 10px;
-  color: #4ccf5f!important;
-  font-size: 20px;
-  transition: 0.4s;
-}
-.footer-menu{
-    margin-top: -17px;
-}
-
-.footer-menu ul li{
-  list-style: none;
-  margin: 18px 0;
-  
-  }
-
-.footer-menu ul li a{
-  
-  color: white;
-  padding: 0px 0;
-  font-size: 18px;
-  transition: 0.4s;
-  font-family: Proxima Nova Rg;
-  opacity: 0.9;
-}
-
-.footer-menu ul li a:hover{
-  color: #4ccf5f;
-
-}
-.footer-menu .active{
-  color: #4ccf5f;
-}
-.social-icon a i:hover{
-  color: #fff;
-}
-
-.newsletter span{
-  color: #4ccf5f;
-  font-size: 18px;
-  padding-bottom: 20px;
-  opacity: 0.9;
-}
-
-.newsletter{
-  color: white;
-  opacity: .9;
-}
-
-
-
-
-
-
-
-@media only screen and (max-width: 768px){
-
-  .footer{
-    width: 100%;
-   height:auto!important;
-  background-size:100% 200vh!important;
-  background-repeat: no-repeat;
-  padding: 30px 0;
-}
-
-.footer-title{
-  margin-bottom: 20px;
-}
-
-.title a{
-  font-size: 25px;
-}
-
-  .footer-content {
-    display: flex;
-    justify-content: space-around;
-    flex-direction: column;
-    align-items: center;
-    padding: 10px;
-}
-
-.newsletter{
-  margin-top: 20px;
-  color: #fff;
-}
-
-.input-form, input::-webkit-input-placeholder {
-    font-size: 16px;
-    text-align: center!important;
-    }
-
-
-.input-form{
-  width: 260px;
-  border: none;
-  padding: 10px 30px;
-  background: none;
-  border-bottom: 1px #fff solid !important;
-}
-
-
-
-}
-
-
-/*End Footer section*/
-
 
 
 /*Event Start*/
@@ -1436,4 +1290,15 @@ ul li{
     color: #4ccf5f;
 }
 
+
+@media only screen and (max-width: 768px){
+
+ 
+
+
+
+}
+
+
+/*End Footer section*/
 
