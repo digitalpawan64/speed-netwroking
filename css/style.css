@@ -138,6 +138,11 @@ p{
    transition: 0.4s;
 }
 
+.square-btn:hover {
+  
+  color: #040521;
+}
+
 
 
 .square-btn-grey{
@@ -146,6 +151,11 @@ p{
   color: #040521!important;
    font-family: 'MyriadRegular';
    transition: 0.4s;
+}
+
+.square-btn-grey:hover {
+  
+  color: #4ccf5f;
 }
 
 .container{
