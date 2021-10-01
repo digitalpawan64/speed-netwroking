@@ -138,7 +138,7 @@ p{
    transition: 0.4s;
 }
 
-.nav-links:hover .square-btn a{
+.square-btn:hover {
   
   color: #040521;
 }
