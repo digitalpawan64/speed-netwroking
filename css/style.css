@@ -904,7 +904,7 @@ h2{
 
 /*footer section*/
 
-/*.footer{
+.footer{
   background-image: url(../image/footer-bg.png)!important;
   width: 100%;
   height:auto!important;
@@ -1110,118 +1110,6 @@ input::-webkit-input-placeholder {
 
 
 }
-*/
-
-.footer {
-  background-image: url(img/footer-bg.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.footer-container {
-  display: flex;
-  padding-top: 97px;
-  padding-bottom: 89px;
-}
-.footer-logo-icons {
-  margin-top: 18px;
-}
-.footer-logo-icons a {
-  font-size: 20px;
-  color: #4ccf5f;
-  margin-right: 18px;
-}
-.footer-logo-icons a:hover, .footer-logo a:hover {
-  opacity: 0.7;
-  transition: 0.6s ease;
-}
-.footer-list {
-  display: flex;
-  margin-left: 106px;
-  margin-right: 114px;
-  margin-top: -10px;
-}
-.footer-list-content2 {
-    margin-left: 98px;
-}
-.footer-list-content1 li a , .footer-list-content2 li a {
-  color: white;
-}
-.footer-list-content1 li a:hover {
-  color: #4ccf5f;
-  transition: 0.6s ease;
-}
-.footer-list-content2 li a:hover {
-  color: #4ccf5f;
-  transition: 0.6s ease;
-}
-#footer-home {
-  color: #4ccf5f;
-}
-#footer-home:hover {
-  color: white;
-  transition: 0.6s ease;
-}
-#subscribe {
-  color: #4ccf5f;
-}
-.footer-form {
-  max-width: 394px;
-  width: 100%;
-  margin-top: -3px;
-}
-form#footer-form-content {
-    display: flex;
-    align-items: flex-end;
-    justify-content: space-between;
-}
-.footer-form p {
-  font-size: 18px;
-  line-height: 24px;
-  font-weight: bold;
-  font-family: "Proxima Nova";
-}
-.footer-form input {
-  font-size: 16px;
-  line-height: 24px;
-  color: #ffffff;
-  font-weight: 400;
-  font-family: "Source Sans Pro";
-}
-#footer-input {
-  background-color: transparent;
-  outline: none;
-  border: none;
-  border-bottom: 1px solid white;
-  padding: 15px 0px;
-  width: 85%;
-}
-#footer-input::placeholder {
-  color: white;
-}
-#arrow-right {
-  font-size: 20px;
-}
-#footer-input-btn {
-  border-radius: 10px;
-  background-color: #4ccf5f;
-  padding-top: 12px;
-  padding-bottom: 10px;
-  padding-left: 15px;
-  padding-right: 15px;
-  outline: none;
-  border: 1px solid transparent;
-  margin-left: 10px;
-  color: white;
-}
-#footer-input-btn:hover {
-  color: #4ccf5f;
-  background-color: white;
-  border: 1px solid #4ccf5f;
-  transition: 0.6s ease;
-}
-
-
 
 
 /*End Footer section*/
