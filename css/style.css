@@ -1287,6 +1287,7 @@ ul.tabs li{
   padding: 30px;
   border-radius: 30px;
 
+
 }
 
 .event-box:hover {
@@ -1309,7 +1310,7 @@ margin: 10px 0;
     font-size: 32px;
     line-height: 44px;
     font-weight: 400px !important;
-      font-family: 'MyriadRegular';
+    font-family: 'Source Sans Pro', sans-serif;
     
 }
 
