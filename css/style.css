@@ -1481,3 +1481,22 @@ form#footer-form-content {
     font-weight: 400;
     font-family: "Source Sans Pro";
 }
+
+#footer-home:hover {
+    color: white;
+    transition: 0.6s ease;
+}
+
+#footer-home {
+    color: #4ccf5f;
+}
+
+.footer-list-content1 li a:hover {
+    color: #4ccf5f;
+    transition: 0.6s ease;
+}
+
+.footer-list-content1 li a, .footer-list-content2 li a {
+    color: white;
+    line-height: 36px;
+}
