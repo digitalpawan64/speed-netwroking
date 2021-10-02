@@ -428,6 +428,20 @@ h2{
     font-size: 22px;
   }
 
+  .Make-impact-content {
+    display: block;
+  }
+
+  .Make-impact-content-box {
+     padding:0 20px !important; 
+     position: relative; 
+     margin-top: -40px; 
+}
+
+.Make-impact {
+     background-position: left; 
+}
+  }
 
 /*Header Section End*/
 
