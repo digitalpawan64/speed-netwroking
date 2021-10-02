@@ -415,7 +415,7 @@ h2{
 }
 
 
-@media only screen (min-width: 769px) and (max-width: 1365px){
+@media only screen (min-width: 768px) and (max-width: 1365px){
   .nav  .nav-links  a {
     font-size: 14px;
   }
@@ -818,6 +818,9 @@ h2{
 
 .slick-slide img {
     width: 70%;
+    width: 182px;
+    height: 57px;
+
 }
 
 .slick-slider
