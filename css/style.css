@@ -1384,7 +1384,7 @@ h2{
 
 
 
-@media only screen (min-width: 769px) and (max-width: 1365px){
+@media only screen  (max-width: 1365px){
   .nav  .nav-links  a {
     font-size: 14px;
   }
