@@ -415,7 +415,7 @@ h2{
 }
 
 
-@media only screen (min-width: 768px) and (max-width: 1365px){
+@media only screen (min-width: 769px) and (max-width: 1365px){
   .nav  .nav-links  a {
     font-size: 14px;
   }
@@ -428,20 +428,6 @@ h2{
     font-size: 22px;
   }
 
-  .Make-impact-content {
-    display: block;
-  }
-
-  .Make-impact-content-box {
-     padding:0 20px !important; 
-     position: relative; 
-     margin-top: -40px; 
-}
-
-.Make-impact {
-     background-position: left; 
-}
-  }
 
 /*Header Section End*/
 
@@ -532,6 +518,36 @@ h2{
 }
 
 }
+
+@media only screen (min-width: 769px) and (max-width: 992px){
+
+  .Make-impact-content {
+    display: block;
+  }
+
+  .Make-impact-content-box {
+     padding:0 20px !important; 
+     position: relative; 
+     margin-top: -40px; 
+}
+
+.Make-impact {
+     background-position: left; 
+}
+
+
+  
+}
+
+@media only screen (min-width: 993px) and (max-width: 1400px){
+  .Make-impact-content-box {
+    /* margin-left: -70px!important; */
+    position: absolute;
+    padding-left: 1100px;
+    /* margin-top: -40px; */
+}
+}
+
 
 /*End Hero Section*/
 
