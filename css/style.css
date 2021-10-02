@@ -336,21 +336,6 @@ h2{
   display: none;
 }
 
-
-@media only screen and (max-width: 1668px){
-  .nav  .nav-links  a {
-    font-size: 14px;
-  }
-
-  .nav{
-    justify-content: flex-start;
-  }
-
-  .nav-title a{
-    font-size: 22px;
-  }
-  }
-
 @media (max-width:600px) {
 
   .nav .nav-header .nav-title{
@@ -430,6 +415,19 @@ h2{
 }
 
 
+@media only screen (min-width: 769px) and (max-width: 1365px{
+  .nav  .nav-links  a {
+    font-size: 14px;
+  }
+
+  .nav{
+    justify-content: flex-start;
+  }
+
+  .nav-title a{
+    font-size: 22px;
+  }
+  }
 
 /*Header Section End*/
 
