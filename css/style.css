@@ -655,7 +655,7 @@ h2{
 }
 
 
-@media (min-width: 769px) and (max-width: 1365px){
+@media all (min-width: 769px) and (max-width: 1365px){
 
 .make-impact-image {
     margin-left: 0px!important; 
@@ -676,6 +676,10 @@ h2{
 .Make-impact-content-box-mobile p {
     font-size: 16px;
     margin-bottom: 10px;
+}
+
+.Make-impact-content-box{
+  padding-left: 992px;
 }
 
 }
