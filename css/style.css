@@ -854,10 +854,8 @@ p{
 .event-section{
   background: url(../image/b42.png);
   width: 100%;
-/*  height: 1070px;*/
-/*height: 990px;*/
-height: auto;
-padding: 160px 0;
+  height: auto;
+  padding: 160px 0;
 }
 
 ul.tabs {
@@ -1284,6 +1282,7 @@ form#footer-form-content{
 /*Media Query*/
 
 @media only screen and (max-width: 1660px){
+
    .event-section{
     background-size: 1785px;
    }
