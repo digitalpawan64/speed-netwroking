@@ -657,12 +657,12 @@ h2{
 
 @media only screen (min-width: 769px) and (max-width: 1365px){
 .make-impact-image {
-    margin-left: 0px; 
-     margin-top: 0px; 
+    margin-left: 0px!important; 
+     margin-top: 0px!important; 
 }
 
 .make-impact-image img{
-  width: 400px;
+  width: 400px!important;
 }
 
 }
