@@ -535,17 +535,17 @@ h2{
      background-position: left; 
 }
 
-  
-}
-
-@media only screen (min-width: 993px) and (max-width: 1400px){
-  .Make-impact-content-box {
+.Make-impact-content-box {
     /* margin-left: -70px!important; */
     position: absolute;
     padding-left: 1100px;
     /* margin-top: -40px; */
 }
+  
+}
 
+@media only screen (min-width: 769px) and (max-width: 992px){
+  
 }
 
 
