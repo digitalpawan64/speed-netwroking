@@ -533,17 +533,6 @@ h2{
 
 }
 
-@media only screen (min-width: 769px) and (max-width: 1365px){
-.make-impact-image {
-    margin-left: 0px; 
-     margin-top: 0px; 
-}
-
-.make-impact-image img{
-  width: 400px;
-}
-
-}
 
 /*End Hero Section*/
 
@@ -665,7 +654,21 @@ h2{
 
 }
 
-@media (min-width:769px) and (max-width:1764px) {
+
+@media only screen (min-width: 769px) and (max-width: 1365px){
+.make-impact-image {
+    margin-left: 0px; 
+     margin-top: 0px; 
+}
+
+.make-impact-image img{
+  width: 400px;
+}
+
+}
+
+
+@media (min-width:1366px) and (max-width:1764px) {
 /*.Make-impact-content-box {
     padding-left: 930px;
     padding-top: 134px;
