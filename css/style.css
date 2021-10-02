@@ -1283,6 +1283,12 @@ form#footer-form-content{
 
 /*Media Query*/
 
+@media only screen and (max-width: 1660px){
+   .event-section{
+    background-size: 1700px;
+   }
+}
+
 @media only screen and (max-width: 768px){
 
 h1 {
