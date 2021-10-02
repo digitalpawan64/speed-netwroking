@@ -1324,6 +1324,10 @@ form#footer-form-content{
 #footer-input {
     width: 80%;
 }
+
+.footer-form{
+  margin: 0 auto;
+}
 }
 
 
