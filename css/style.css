@@ -1285,9 +1285,9 @@ form#footer-form-content{
 /*Media Query*/
 
 @media only screen and (max-width: 1660px){
-   .event-section{
+  /* .event-section{
     background-size: 1785px;
-   }
+   }*/
 
    .make-connection{
     background-size: contain;
