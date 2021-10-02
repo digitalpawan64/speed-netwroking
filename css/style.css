@@ -336,7 +336,7 @@ h2{
   display: none;
 }
 
-@media only screen and (max-width:768px) {
+@media only screen and (max-width:600px) {
 
   .nav .nav-header .nav-title{
     padding: 10px 10px 10px 10px!important;
