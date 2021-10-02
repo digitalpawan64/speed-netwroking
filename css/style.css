@@ -665,6 +665,18 @@ h2{
   width: 400px!important;
 }
 
+.Make-impact-content-box-mobile h2 {
+    font-family: 'Proxima Nova Rg';
+    font-size: 2.2rem;
+     line-height: 50px; 
+    color: #040521;
+}
+
+.Make-impact-content-box-mobile p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
 }
 
 
