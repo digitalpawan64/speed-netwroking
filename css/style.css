@@ -931,6 +931,7 @@ form#footer-form-content {
 .footer-list-content1 li a, .footer-list-content2 li a {
     color: white;
     line-height: 36px;
+    font-weight: 600;
 }
 
 ul li{
