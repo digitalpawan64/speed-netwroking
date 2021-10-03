@@ -971,7 +971,7 @@ ul li{
 }
 
 .social-icon a{
-  font-size: 20px;
+  font-size: 20px!important;
   color: #4ccf5f;
   margin-right: 18px;
 }
