@@ -859,7 +859,7 @@ ul.tl li .timestamp{
 .footer-container {
     display: flex;
     padding-top: 97px;
-    padding-bottom: 89px;
+    padding-bottom: 85px;
 }
 
 .footer-list {
@@ -932,7 +932,9 @@ form#footer-form-content {
 .footer-list-content1 li a, .footer-list-content2 li a {
     color: white;
     line-height: 36px;
-    font-weight: 600;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Proxima Nova Rg';
 }
 
 ul li{
