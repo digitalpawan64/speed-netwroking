@@ -851,7 +851,8 @@ ul.tl li .timestamp{
 
 .footer-2{
   background-image: url(../image/footer-bg.png)!important;
-  background-size: 100% 200vh;
+  /*background-size: 100% 200vh;*/
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
@@ -970,13 +971,14 @@ ul li{
 }
 
 .social-icon {
-  margin-top: 18px;
+  margin-top: 25px;
 }
 
 .social-icon a{
   font-size: 20px!important;
   color: #4ccf5f;
   margin-right: 18px;
+  font-weight: 400;
 }
 
 
