@@ -850,7 +850,7 @@ ul.tl li .timestamp{
 
 
 .footer-2{
-  background-image: url(../image/footer-bg.png)!important;
+  background-image: url(../image/footer-bg.png);
   /*background-size: 100% 200vh;*/
   background-size: cover;
   background-repeat: no-repeat;
